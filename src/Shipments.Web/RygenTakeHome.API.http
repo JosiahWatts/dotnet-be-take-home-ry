@@ -1,0 +1,7 @@
+@RygenTakeHome.API_HostAddress = http://localhost:5027
+
+@ShipmentId=1
+GET {{RygenTakeHome.API_HostAddress}}/api/shipments/{{ShipmentId}}/invoice
+Accept: application/json
+
+###

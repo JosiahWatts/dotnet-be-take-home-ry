@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qg28hM6X/fI7VrKCFdT0NHQaYwF0AH23TFJc9dk+SJ/Fgs98lFpQw8P5hIW251YS5Qtx/LZ4O6m5gPFGZSowKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josia\\dev\\rygen-take-home\\src\\Shipments.Infrastructure\\Shipments.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josia\\.nuget\\packages\\ardalis.guardclauses\\4.5.0\\ardalis.guardclauses.4.5.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\ardalis.result\\8.0.0\\ardalis.result.8.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

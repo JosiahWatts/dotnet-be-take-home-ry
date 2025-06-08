@@ -1,0 +1,15 @@
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\bin\Debug\net8.0\Shipments.Infrastructure.deps.json
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\bin\Debug\net8.0\Shipments.Infrastructure.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\bin\Debug\net8.0\Shipments.Infrastructure.pdb
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.AssemblyInfo.cs
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\refint\Shipments.Infrastructure.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.pdb
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\ref\Shipments.Infrastructure.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\bin\Debug\net8.0\Shipments.Domain.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\bin\Debug\net8.0\Shipments.Domain.pdb
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipments.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Infrastructure\obj\Debug\net8.0\Shipment.A2D343DF.Up2Date

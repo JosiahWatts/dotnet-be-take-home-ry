@@ -1,0 +1,12 @@
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\bin\Debug\net8.0\Shipments.Domain.deps.json
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\bin\Debug\net8.0\Shipments.Domain.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\bin\Debug\net8.0\Shipments.Domain.pdb
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.csproj.AssemblyReference.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.AssemblyInfoInputs.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.AssemblyInfo.cs
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\refint\Shipments.Domain.dll
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\Shipments.Domain.pdb
+C:\Users\josia\dev\rygen-take-home\src\Shipments.Domain\obj\Debug\net8.0\ref\Shipments.Domain.dll
